@@ -1,0 +1,148 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    padding-top: 40px;
+}
+
+
+.fs {
+    border: 2px solid black;
+    border-radius: 20px;
+    height: fit-content;
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.fs div {
+    background-color: lightgreen;
+    height: 10rem;
+    width: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 3px 3px black ;
+}
+
+.fe {
+    border: 2px solid black;
+    border-radius: 20px;
+    height: fit-content;
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.fe div {
+    background-color: lightgreen;
+    height: 10rem;
+    width: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 3px 3px black ;
+}
+
+.sb {
+    border: 2px solid black;
+    border-radius: 20px;
+    height: fit-content;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.sb div {
+    background-color: lightgreen;
+    height: 10rem;
+    width: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 3px 3px black;
+}
+
+.sa {
+    border: 2px solid black;
+    border-radius: 20px;
+    height: fit-content;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.sa div {
+    background-color: lightgreen;
+    height: 10rem;
+    width: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 3px 3px black;
+}
+
+.se {
+    border: 2px solid black;
+    border-radius: 20px;
+    height: fit-content;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.se div {
+    background-color: lightgreen;
+    height: 10rem;
+    width: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 3px 3px black;
+}
+
+.cn {
+    border: 2px solid black;
+    border-radius: 20px;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.cn div {
+    background-color: lightgreen;
+    height: 10rem;
+    width: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 3px 3px black;
+}
+
+
